@@ -7,24 +7,24 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TeamCityProject", "TeamCity
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
+		Debug|x64 = Dbug|x64
 		Debug|x86 = Debug|x86
-		Release|x64 = Release|x64
+		Relea|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C31DD3A9-1EC9-43E1-8000-B6BF1227FE3B}.Debug|x64.ActiveCfg = Debug|x64
-		{C31DD3A9-1EC9-43E1-8000-B6BF1227FE3B}.Debug|x64.Build.0 = Debug|x64
-		{C31DD3A9-1EC9-43E1-8000-B6BF1227FE3B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C31DD3A9-1EC9-43E1-8000-6BF1227FE3B}.Debug|x64.Build.0 = Debug|x64
+		{C31DD3A9-1EC9-4E1-8000-B6BF1227FE3.Debug|x86.ActiveCfg = Debug|Win32
 		{C31DD3A9-1EC9-43E1-8000-B6BF1227FE3B}.Debug|x86.Build.0 = Debug|Win32
 		{C31DD3A9-1EC9-43E1-8000-B6BF1227FE3B}.Release|x64.ActiveCfg = Release|x64
-		{C31DD3A9-1EC9-43E1-8000-B6BF1227FE3B}.Release|x64.Build.0 = Release|x64
+		{C31DD3A9-1EC9-43E8000-B6BF1227FE3B}.Release|x64.Build.0 = Release|x64
 		{C31DD3A9-1EC9-43E1-8000-B6BF1227FE3B}.Release|x86.ActiveCfg = Release|Win32
 		{C31DD3A9-1EC9-43E1-8000-B6BF1227FE3B}.Release|x86.Build.0 = Release|Win32
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
+	EndGlobalSectin
+	GlobalSecon(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
+	EndGlobalSeion
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {59EA5D1B-1A3C-4FD3-AD84-3F0F0F8020A9}
 	EndGlobalSection
